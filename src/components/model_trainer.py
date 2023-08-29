@@ -43,7 +43,6 @@ class ModelTrainer:
                 'AdaBoost Regressor':AdaBoostRegressor(),
                 'Gradient Boosting':GradientBoostingRegressor()
 
-
                 }
             
             params={
